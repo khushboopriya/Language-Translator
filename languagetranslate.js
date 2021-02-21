@@ -14,6 +14,7 @@ translateButton.addEventListener('click',()=>{
   url.search = new URLSearchParams(param).toString();
 
 //   fetch(url)
+
 //   .then((response) => response.json())
 //   .then((response)=>console.log(response));
 
