@@ -138,7 +138,7 @@ and (max-device-width : 480px) {
     .output-textbox{
         margin-left: 5vw;
         height: 25vh;
-        width: 50vw;
+        width: 48vw;
         border-radius: 0.52vw;
     }
     
