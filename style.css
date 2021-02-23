@@ -142,7 +142,7 @@ and (max-device-width : 480px) {
         flex-direction: row;
         column-gap: 2.5vh;
         background-color: aqua;
-        margin-top: -8vh;
+        margin-top: -6vh;
     }
     
     .output-section{
