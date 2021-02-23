@@ -102,3 +102,64 @@ h1{
     margin-top: 0vh;
     
   }
+
+  @media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+
+    .main-container{
+        flex-direction: column;
+        width: 65vw;
+        height: 90vh;
+    }
+
+
+    .input-section{
+        height: 30vh;
+        width: 55vw;
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+    }
+    
+    .input-textbox,
+    .output-textbox{
+        margin-top: 4vh;
+        height: 25vh;
+        width: 50vw;
+        border-radius: 0.52vw;
+    }
+    
+    .action-items{
+        /* margin-top:18vh; */
+        display: flex;
+        flex-direction: row;
+        column-gap: 2.5vh;
+    }
+    
+    .output-section{
+        height: 30vh;
+        width: 55vw;
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+    }
+    
+    .button{
+            width: 20vw;
+            height: 8vh;
+            border-radius: 0.52vw;
+            font-size: 2.5vh;
+            cursor: pointer;
+    }
+
+
+
+
+
+
+
+
+
+
+}
