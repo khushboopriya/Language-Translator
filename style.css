@@ -139,8 +139,8 @@ and (max-device-width : 480px) {
     .action-items{
         /* margin-top:18vh; */
         display: flex;
-        flex-direction: row;
-        column-gap: 2.5vh;
+        flex-direction: column;
+        /* column-gap: 2.5vh; */
         background-color: aqua;
         margin-top: -6vh;
     }
