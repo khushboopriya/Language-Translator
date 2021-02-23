@@ -123,7 +123,7 @@ and (max-device-width : 480px) {
         width: 55vw;
         display: flex;
         justify-content: center;
-        background-color: #000000;
+        /* background-color: #000000; */
         /* align-items: center; */
         margin-top: -5vh;
     }
@@ -141,7 +141,7 @@ and (max-device-width : 480px) {
         display: flex;
         flex-direction: column;
         /* column-gap: 2.5vh; */
-        background-color: aqua;
+        /* background-color: aqua; */
         margin-top: -5vh;
     }
     
@@ -150,7 +150,7 @@ and (max-device-width : 480px) {
         width: 55vw;
         display: flex;
         justify-content: center;
-        background-color: yellow;
+        /* background-color: yellow; */
         margin-top: -4vh;
         /* align-items: center; */
     }
