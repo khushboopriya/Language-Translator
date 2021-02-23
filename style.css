@@ -113,7 +113,7 @@ and (max-device-width : 480px) {
         height: 80vh;
         justify-content: center;
         align-items: center;
-        /* justify-content: space-evenly; */
+        justify-content: space-evenly; 
         row-gap: 1.5vh;
     }
 
