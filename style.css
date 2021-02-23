@@ -119,6 +119,7 @@ and (max-device-width : 480px) {
         width: 55vw;
         display: flex;
         justify-content: center;
+        background-color: #000000;
         /* align-items: center; */
     }
     
@@ -135,6 +136,7 @@ and (max-device-width : 480px) {
         display: flex;
         flex-direction: row;
         column-gap: 2.5vh;
+        background-color: aqua;
     }
     
     .output-section{
@@ -142,6 +144,7 @@ and (max-device-width : 480px) {
         width: 55vw;
         display: flex;
         justify-content: center;
+        background-color: yellow;
         /* align-items: center; */
     }
     
