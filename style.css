@@ -142,7 +142,7 @@ and (max-device-width : 480px) {
         flex-direction: column;
         /* column-gap: 2.5vh; */
         background-color: aqua;
-        margin-top: -6vh;
+        margin-top: -5vh;
     }
     
     .output-section{
@@ -151,7 +151,7 @@ and (max-device-width : 480px) {
         display: flex;
         justify-content: center;
         background-color: yellow;
-        margin-top: -5vh;
+        margin-top: -4vh;
         /* align-items: center; */
     }
     
