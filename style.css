@@ -124,7 +124,7 @@ and (max-device-width : 480px) {
         justify-content: center;
         background-color: #000000;
         /* align-items: center; */
-        margin-top: -3vh;
+        margin-top: -5vh;
     }
     
     .input-textbox,
