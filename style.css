@@ -34,7 +34,7 @@ h1{
 
 
 .main-container{
-    /* background-color: aqua; */
+     background-color:red;
     width: 65vw;
     height: 60vh;
     display: flex;
