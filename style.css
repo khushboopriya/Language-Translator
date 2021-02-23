@@ -128,7 +128,13 @@ and (max-device-width : 480px) {
         margin-top: -5vh;
     }
     
-    .input-textbox,
+    .input-textbox{
+        margin-left: 5vw;
+        height: 25vh;
+        width: 50vw;
+        border-radius: 0.52vw;
+
+    }
     .output-textbox{
         margin-left: 5vw;
         height: 25vh;
@@ -142,7 +148,7 @@ and (max-device-width : 480px) {
         flex-direction: column;
         /* column-gap: 2.5vh; */
         /* background-color: aqua; */
-        margin-top: -5vh;
+        margin-top: -3vh;
     }
     
     .output-section{
